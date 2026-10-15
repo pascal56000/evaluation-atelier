@@ -1,0 +1,3 @@
+Appli « Évaluation atelier » – version à mettre en ligne
+Envoyez les 6 autres fichiers de ce dossier dans un dépôt GitHub (GitHub Pages), sans les renommer.
+Aucune donnée d'apprenti n'est dans ces fichiers : les évaluations restent sur la tablette.
